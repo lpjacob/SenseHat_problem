@@ -1,5 +1,7 @@
 # SenseHat_problem
-AS level CS project to use the SenseHat to display data
+AS level CS project to use the SenseHat to display data.
+
+
 A small manufacturing company has asked you to design software that will interface with one of its production lines. 
 It's new line of painted widgets dry to an optimum glossy finish if kept at a constant temperature for 1 hour.
 Standard painted widgets dry best at 21.5c but metallic finishes dry to a deep shine if kept at 22.7c. 
